@@ -1,0 +1,18 @@
+##### 
+ PINN Evaluation Time = 0.0128301 
+
+
+============================= JOB FEEDBACK =============================
+
+NodeName=uc2n512
+Job ID: 25286069
+Cluster: uc2
+User/Group: ul_wno19/ul_student
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 10
+CPU Utilized: 00:00:12
+CPU Efficiency: 0.76% of 00:26:10 core-walltime
+Job Wall-clock time: 00:02:37
+Memory Utilized: 688.40 MB
+Memory Efficiency: 11.20% of 6.00 GB
