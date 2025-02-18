@@ -1,0 +1,17 @@
+#### Solving Time   = 0.1576204
+#### Number of DOFs =   263425
+
+============================= JOB FEEDBACK =============================
+
+NodeName=uc2n286
+Job ID: 25287018
+Cluster: uc2
+User/Group: ul_wno19/ul_student
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 80
+CPU Utilized: 00:05:48
+CPU Efficiency: 4.26% of 02:16:00 core-walltime
+Job Wall-clock time: 00:01:42
+Memory Utilized: 11.56 GB
+Memory Efficiency: 72.26% of 16.00 GB
